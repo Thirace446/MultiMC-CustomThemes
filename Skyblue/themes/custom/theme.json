@@ -1,0 +1,21 @@
+{
+    "colors": {
+        "AlternateBase": "#f2ffff",
+        "Base": "#f2ffff",
+        "BrightText": "#66ccff",
+        "Button": "#90d7ec",
+        "ButtonText": "#483d8b",
+        "Highlight": "#87CEEB",
+        "HighlightedText": "#53261f",
+        "Link": "#228fbd",
+        "Text": "#483d8b",
+        "ToolTipBase": "#483d8b",
+        "ToolTipText": "#483d8b",
+        "Window": "#cbf5fb",
+        "WindowText": "#563624",
+        "fadeAmount": 0.5,
+        "fadeColor": "#f2ffff"
+    },
+    "name": "qiqia",
+    "widgets": "Fusion"
+}
