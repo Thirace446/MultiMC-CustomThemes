@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/Thirace446/MultimcCustomThemes/main/icon.ico" alt="qqa" width="100">
+  <img src="https://raw.githubusercontent.com/Thirace446/Multimc-CustomThemes/main/icon.ico" alt="qqa" width="100">
   <br>
   For <a href="https://multimc.org/">MultiMC</a>
   <br>
