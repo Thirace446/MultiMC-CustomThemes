@@ -21,7 +21,7 @@
 将`themes`文件夹放置于MultiMC/PolyMC根目录下
 `\MultiMC\themes`
 `\PolyMC\themes`
->点击设置>launcher>用户界面>主题>颜色>选择`qiqia`
+>点击设置>launcher>用户界面>主题>颜色>选择
 
 
 ## 背景更换:
