@@ -3,6 +3,7 @@
   <img src="https://raw.githubusercontent.com/Thirace446/Multimc-CustomThemes/main/icon.ico" alt="qqa" width="100">
   <br>
   For <a href="https://multimc.org/">MultiMC</a>
+  Or <a href="https://PolyMC.org/">PolyMC</a>
   <br>
 </h1>
 
@@ -17,9 +18,10 @@
 
 ## 主题设置: 
 
-将`themes`文件夹放置于MultiMC根目录下`\MultiMC\themes`
-
-打开MultiMC>点击设置>launcher>用户界面>主题>颜色>选择`qiqia`
+将`themes`文件夹放置于MultiMC/PolyMC根目录下
+`\MultiMC\themes`
+`\PolyMC\themes`
+>点击设置>launcher>用户界面>主题>颜色>选择`qiqia`
 
 
 ## 背景更换:
@@ -34,18 +36,22 @@
 
 `\MultiMC\themes\custom\resources\image.png`
 
+`\PolyMC\themes\custom\resources\image.png`
+
 重启MultiMC即可
 
 
 ## 图标设置:
 
-将 `iconthemes` 文件夹放置于 MultiMC 根目录下 `\MultiMC\iconthemes`
+将 `iconthemes` 文件夹放置于 MultiMC/PolyMC 根目录下
+`\MultiMC\iconthemes`
+`\PolyMC\iconthemes`
 
-打开MultiMC>点击设置>launcher>用户界面>主题>图标>选择`自定义`
+>点击设置>launcher>用户界面>主题>图标>选择`自定义`
 
 # 其他
 
-如果你想的话也可以下载ico文件作为MultiMC快捷方式的图标。
+如果你想的话也可以下载ico文件作为快捷方式的图标。
 
 ## 如何制作自己的主题？
 
