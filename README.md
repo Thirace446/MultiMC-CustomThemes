@@ -4,6 +4,7 @@
   <br>
   For <a href="https://multimc.org/">MultiMC</a>
   Or <a href="https://PolyMC.org/">PolyMC</a>
+  And <a href="https://prismlauncher.org/">PrismLauncher</a>
   <br>
 </h1>
 
@@ -20,7 +21,6 @@
 
 将`themes`文件夹放置于MultiMC/PolyMC根目录下
 `\MultiMC\themes`
-`\PolyMC\themes`
 >点击设置>launcher>用户界面>主题>颜色>选择
 
 
@@ -36,8 +36,6 @@
 
 `\MultiMC\themes\custom\resources\image.png`
 
-`\PolyMC\themes\custom\resources\image.png`
-
 重启MultiMC即可
 
 
@@ -45,7 +43,6 @@
 
 将 `iconthemes` 文件夹放置于 MultiMC/PolyMC 根目录下
 `\MultiMC\iconthemes`
-`\PolyMC\iconthemes`
 
 >点击设置>launcher>用户界面>主题>图标>选择`自定义`
 
